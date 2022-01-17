@@ -1,2 +1,0 @@
-# Doukoure
-Web Dev Junior
